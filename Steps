@@ -1,0 +1,9 @@
+Steps
+
+Preprocess + EDA + Feature Selection
+Extract input and output cols
+Scale the values
+Train test split
+Train the model
+Evaluate the model/model selection
+Deploy the model
